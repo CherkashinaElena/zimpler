@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Jonas",
+    "favouriteSnack": "Geisha",
+    "totalSnacks": 1982
+  },
+  {
+    "name": "Annika",
+    "favouriteSnack": "Geisha",
+    "totalSnacks": 208
+  },
+  {
+    "name": "Jane",
+    "favouriteSnack": "Nötchoklad",
+    "totalSnacks": 22
+  },
+  {
+    "name": "Aadya",
+    "favouriteSnack": "Center",
+    "totalSnacks": 11
+  }
+]
